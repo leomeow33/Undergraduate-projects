@@ -1,0 +1,9 @@
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\hasee\Documents\Visual Studio 2015\Projects\VS项目\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
